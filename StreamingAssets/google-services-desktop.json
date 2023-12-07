@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98538046578",
+    "project_id": "pull-the-pin-e0b3b",
+    "storage_bucket": "pull-the-pin-e0b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98538046578:android:d322f8eb519abe5109eeeb",
+        "android_client_info": {
+          "package_name": "com.sntechnogames.pullthepinnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98538046578-dsk3d3k700f3likjqjftsd6ofsdk5mrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-WJjZ6cA3hOs8pkE5s_CceBSEqGblnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98538046578-dsk3d3k700f3likjqjftsd6ofsdk5mrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
